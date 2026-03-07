@@ -1,9 +1,9 @@
-const cacheName = "XEX-XEX-Game-0.1.28";
+const cacheName = "EXA Labs-Exaverse-0.6";
 const contentToCache = [
-    "Build/Xex Crypto Game WebGL Build-V(0.1.28) 27-06-2025.loader.js",
-    "Build/Xex Crypto Game WebGL Build-V(0.1.28) 27-06-2025.framework.js",
-    "Build/Xex Crypto Game WebGL Build-V(0.1.28) 27-06-2025.data",
-    "Build/Xex Crypto Game WebGL Build-V(0.1.28) 27-06-2025.wasm",
+    "Build/Exaverse Full Version WebGL Build-V(0.6) 06-March-2026.loader.js",
+    "Build/Exaverse Full Version WebGL Build-V(0.6) 06-March-2026.framework.js",
+    "Build/Exaverse Full Version WebGL Build-V(0.6) 06-March-2026.data",
+    "Build/Exaverse Full Version WebGL Build-V(0.6) 06-March-2026.wasm",
     "TemplateData/style.css"
 
 ];
